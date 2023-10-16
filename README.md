@@ -1,4 +1,21 @@
+# Nike-Air-Max-Landing-Page-React-App
+
+![Image](https://cdn.dribbble.com/userupload/10807731/file/original-a0dc8be7ea6d608eba299ccb08377d6e.png?resize=1504x846)
+
+
+  
+  <p align="left">
+    <a href="https://www.youtube.com/channel/UCuJNJfjUo2i4c6n09hZTlBQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <p>
+      Watch the Tutorial on YouTube <a href="https://youtu.be/drz0-P6Rbq8" target="_blank">Nike Air Max Landing Page - A Sneaker Landing Page built using React, Next JS TailwindCSS</a>
+    </p>
+    
+  </p>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
 
 ## Getting Started
 
